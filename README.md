@@ -19,12 +19,11 @@ My name is Gillardo Perez but I go by Gil. I'm an eager learner when it comes to
 
  + TechStack: Javascript(Vue.js, React , ReactNative), Vite, C#, .Net Core, MySQL, Node.js, Mongo.db, HTML, CSS/Bootstrap & more.
  
-📫 How to reach me: ...
+# How to reach me: ...
 
  + 📩 gilperez109@gmail.com
  + 💼 Linkedin
-Fun Facts:
-
+ #Fun Facts:
 + 🎵 Enjoys music and playing or learning instruments
 + 🖥️ Tech enthusiast
 + 🎬 Big time Movie / show
