@@ -29,3 +29,6 @@ My name is Gillardo Perez but I go by Gil. I'm an eager learner when it comes to
 + 🖥️ Tech enthusiast
 + 🎬 Big time Movie / show
 + 🏕 Outdoor hiking
+
+ # Personality survey 
+ + https://www.16personalities.com/profiles/c24c04837dd16
