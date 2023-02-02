@@ -22,7 +22,9 @@ My name is Gillardo Perez but I go by Gil. I'm an eager learner when it comes to
 # How to reach me: ...
 
  + 📩 gilperez109@gmail.com
- + 💼 Linkedin
+ +  
+ +  **💼 [Linkedin](https://www.linkedin.com/in/gillardo-perez/)**
+
  
  # Fun Facts:
 + 🎵 Enjoys music and playing or learning instruments
