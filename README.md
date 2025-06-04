@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gillardo Perez but I go by Gil. I'm an eager learner when it comes to emerging technologies and any challenging task sent my way. I've worked in many different aspects of technology, such as software application, networking systems, cloud based systems, and hardware. Over the years I grew passionately for developing software because of the combination of solving puzzles and developing creative solutions. My main focus recently is fullstack development for business applications using either React or Vue for FrontEnd developement along with node or c# backend.
+Hello, I'm Gil. I'm an eager learner when it comes to emerging technologies and any challenging task sent my way. I've worked in many different aspects of technology, such as software application, networking systems, cloud based systems, and hardware. Over the years I grew passionately for developing software because of the combination of solving puzzles and developing creative solutions. My main focus recently is fullstack development for business applications using either React or Vue for FrontEnd developement along with node or c# backend.
 
  + TechStack: Javascript(Vue.js, React , ReactNative), Vite, C#, .Net Core, MySQL, Node.js, Mongo.db, HTML, CSS/Bootstrap & more.
  
